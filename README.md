@@ -177,11 +177,12 @@ ROADMAP
    - partials by default
    - new operators
 2. [ ] Test Suite
-3. [ ] User Manual
+3. [ ] Write User Manual
 4. [ ] Support For Concurrency 
 5. [ ] Support for Pattern Matching
 6. [ ] Standard Library
-7. [ ] Separate OpenFL REPL for inclusion in any OpenFL project
+7. [ ] Make separate OpenFL REPL for inclusion in any OpenFL project
+8. [ ] Write Extensions Manual
 
 
 Disclaimer
