@@ -168,19 +168,20 @@ use the `hatch.REPL.repl(s : String) : String` static method.
     hatch.REPL.repl("(+ 1 2 3 4)"); // returns 10
 
 
-The Future
+ROADMAP
 --------------
 
-
-There is much to be done. A non-exhaustive list of features to come:
-
-1. A hatch REPL for interactively playing with your openfl projects
-   while they are running (already in progress).
-2. A more sophisticated command line hatch REPL, with history, and
-   help functions.
-3. Support for docstrings in the `define` statement.
-4. An API on top of openfl for doing graphical programming in hatch itself.
-5. Support for comments and .hatch sourcecode files.
+1. [ ] Add Up-to-date documentation and usage examples for the new
+   conventions in the language
+   - "Monadic" Haxe interoperability
+   - partials by default
+   - new operators
+2. [ ] Test Suite
+3. [ ] User Manual
+4. [ ] Support For Concurrency 
+5. [ ] Support for Pattern Matching
+6. [ ] Standard Library
+7. [ ] Separate OpenFL REPL for inclusion in any OpenFL project
 
 
 Disclaimer
