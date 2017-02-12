@@ -182,7 +182,7 @@ ROADMAP
 5. [ ] Support for Pattern Matching
 6. [ ] Standard Library
 7. [ ] Make separate OpenFL REPL for inclusion in any OpenFL project
-8. [ ] Write Extensions Manual
+8. [ ] Write Contributor's Guide
 
 
 Disclaimer
